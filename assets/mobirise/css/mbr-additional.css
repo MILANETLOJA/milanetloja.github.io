@@ -496,6 +496,12 @@ h6,
 #form1-p .form-control-label {
   color: #232323;
 }
+#form1-p .mbr-section-title {
+  color: #efefef;
+}
+#form1-p SMALL {
+  color: #282828;
+}
 #social-buttons4-o .mbr-section-title,
 #social-buttons4-o .btn-social {
   color: #fff;

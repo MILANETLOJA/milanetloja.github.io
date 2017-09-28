@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contato.html",
     "name": "MILANET LOJA",
     "theme": {
       "name": "mobirise3",
@@ -103,7 +103,7 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
@@ -449,7 +449,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#acacac",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -492,6 +492,12 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            "SMALL": {
+              "color": "#282828"
             }
           }
         },
@@ -578,7 +584,7 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
