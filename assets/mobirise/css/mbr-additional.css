@@ -482,7 +482,17 @@ h6,
 #header5-a .mbr-section-lead {
   color: #9c9a9a;
 }
+#features4-g .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-g .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
 #social-buttons4-f .mbr-section-title,
 #social-buttons4-f .btn-social {
   color: #fff;
+}
+#contacts1-d P {
+  color: #000000;
 }
