@@ -416,6 +416,7 @@ h6,
 }
 #menu-7 .navbar-caption {
   color: #ffffff;
+  font-size: 14px;
 }
 #menu-7 .navbar-toggler {
   color: #ffffff;
@@ -476,8 +477,12 @@ h6,
   color: #ffffff;
 }
 #header5-a .mbr-section-title {
-  color: #000;
+  color: #efefef;
 }
 #header5-a .mbr-section-lead {
   color: #9c9a9a;
+}
+#social-buttons4-f .mbr-section-title,
+#social-buttons4-f .btn-social {
+  color: #fff;
 }
